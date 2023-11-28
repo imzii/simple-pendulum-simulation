@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "단진자 프로그램 20519 임지훈", "단진자 프로그램 20519 임지훈\단진자 프로그램 20519 임지훈.csproj", "{F4205D86-DD40-4025-9D99-2C454B6E2EF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4205D86-DD40-4025-9D99-2C454B6E2EF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4205D86-DD40-4025-9D99-2C454B6E2EF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4205D86-DD40-4025-9D99-2C454B6E2EF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4205D86-DD40-4025-9D99-2C454B6E2EF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {258680F5-47B4-4318-ADB0-7E041D71D78E}
+	EndGlobalSection
+EndGlobal
