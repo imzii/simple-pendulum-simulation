@@ -1,0 +1,10 @@
+C:\Users\limji\Source\Repos\simple-pendulum-simulation\단진자 프로그램 20519 임지훈\bin\Release\단진자 프로그램 20519 임지훈.exe.config
+C:\Users\limji\Source\Repos\simple-pendulum-simulation\단진자 프로그램 20519 임지훈\bin\Release\단진자 프로그램 20519 임지훈.exe
+C:\Users\limji\Source\Repos\simple-pendulum-simulation\단진자 프로그램 20519 임지훈\bin\Release\단진자 프로그램 20519 임지훈.pdb
+C:\Users\limji\Source\Repos\simple-pendulum-simulation\단진자 프로그램 20519 임지훈\obj\Release\단진자 프로그램 20519 임지훈.csproj.AssemblyReference.cache
+C:\Users\limji\Source\Repos\simple-pendulum-simulation\단진자 프로그램 20519 임지훈\obj\Release\단진자_프로그램_20519_임지훈.Form1.resources
+C:\Users\limji\Source\Repos\simple-pendulum-simulation\단진자 프로그램 20519 임지훈\obj\Release\단진자_프로그램_20519_임지훈.Properties.Resources.resources
+C:\Users\limji\Source\Repos\simple-pendulum-simulation\단진자 프로그램 20519 임지훈\obj\Release\단진자 프로그램 20519 임지훈.csproj.GenerateResource.cache
+C:\Users\limji\Source\Repos\simple-pendulum-simulation\단진자 프로그램 20519 임지훈\obj\Release\단진자 프로그램 20519 임지훈.csproj.CoreCompileInputs.cache
+C:\Users\limji\Source\Repos\simple-pendulum-simulation\단진자 프로그램 20519 임지훈\obj\Release\단진자 프로그램 20519 임지훈.exe
+C:\Users\limji\Source\Repos\simple-pendulum-simulation\단진자 프로그램 20519 임지훈\obj\Release\단진자 프로그램 20519 임지훈.pdb
