@@ -1,0 +1,10 @@
+C:\Users\임지훈\source\repos\단진자 프로그램 20519 임지훈\단진자 프로그램 20519 임지훈\bin\Debug\단진자 프로그램 20519 임지훈.exe.config
+C:\Users\임지훈\source\repos\단진자 프로그램 20519 임지훈\단진자 프로그램 20519 임지훈\bin\Debug\단진자 프로그램 20519 임지훈.exe
+C:\Users\임지훈\source\repos\단진자 프로그램 20519 임지훈\단진자 프로그램 20519 임지훈\bin\Debug\단진자 프로그램 20519 임지훈.pdb
+C:\Users\임지훈\source\repos\단진자 프로그램 20519 임지훈\단진자 프로그램 20519 임지훈\obj\Debug\단진자 프로그램 20519 임지훈.csprojAssemblyReference.cache
+C:\Users\임지훈\source\repos\단진자 프로그램 20519 임지훈\단진자 프로그램 20519 임지훈\obj\Debug\단진자_프로그램_20519_임지훈.Form1.resources
+C:\Users\임지훈\source\repos\단진자 프로그램 20519 임지훈\단진자 프로그램 20519 임지훈\obj\Debug\단진자_프로그램_20519_임지훈.Properties.Resources.resources
+C:\Users\임지훈\source\repos\단진자 프로그램 20519 임지훈\단진자 프로그램 20519 임지훈\obj\Debug\단진자 프로그램 20519 임지훈.csproj.GenerateResource.cache
+C:\Users\임지훈\source\repos\단진자 프로그램 20519 임지훈\단진자 프로그램 20519 임지훈\obj\Debug\단진자 프로그램 20519 임지훈.csproj.CoreCompileInputs.cache
+C:\Users\임지훈\source\repos\단진자 프로그램 20519 임지훈\단진자 프로그램 20519 임지훈\obj\Debug\단진자 프로그램 20519 임지훈.exe
+C:\Users\임지훈\source\repos\단진자 프로그램 20519 임지훈\단진자 프로그램 20519 임지훈\obj\Debug\단진자 프로그램 20519 임지훈.pdb
